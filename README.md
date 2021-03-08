@@ -17,3 +17,8 @@ Rule based matching
 Writing match patterns with SpaCy Matcher
 Working with nlp.vocab.strings
 Lexemes
+
+### NLP_SpaCy_Similarities
+Comparing similarities in documents
+Inspecting word vectors
+Comparing spans and tokens
