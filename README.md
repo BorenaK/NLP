@@ -12,3 +12,8 @@ Exploring word vectors with SpaCy
 King - Man = Queen
 
 ### NLP_SpaCy_Predicting_named_entitites.ipynb
+Predicting named entities
+Rule based matching
+Writing match patterns with SpaCy Matcher
+Working with nlp.vocab.strings
+Lexemes
