@@ -10,3 +10,5 @@ Software reviews on (459,436 reviews) metadata (26,815 products)
 ### word_vectors_king_man_queen.py
 Exploring word vectors with SpaCy
 King - Man = Queen
+
+### NLP_SpaCy_Predicting_named_entitites.ipynb
